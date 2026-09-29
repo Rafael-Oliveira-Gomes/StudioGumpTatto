@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="GumpStudio.Api.csproj" />
+  </Folder>
+</Solution>
